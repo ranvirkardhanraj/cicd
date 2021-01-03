@@ -48,7 +48,7 @@ new Question("3.President kovind address the Indian community in _______________
     
 new Question("4.Which radiolocation did the military service has a shipborne is capable of providing Target Designation information to missile systems?", ["2D","3D","4D", "None of this"], "3D"),
 
-new Question("5.Who invented the Telephone?", ["Alexander Graham Bell", "Galileo Galilei","Alexander Fleming", "Ada Lovelace"], "Alexander Graham Bell"),
+
 
         
 
